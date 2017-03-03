@@ -2,7 +2,7 @@ This repository contains the scripts used and the results of a data-mining proje
 
 ***
 
-Short Presentation of Results: on [Slideshare](http://dba.stackexchange.com/).
+Short Presentation of Results: on [Slideshare](https://www.slideshare.net/AlexanderLattas/mining-the-dba-stackexchange).
 
 ***
 
